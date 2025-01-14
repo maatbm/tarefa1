@@ -17,3 +17,10 @@ a{
 a:hover{
   color: gray;
 }
+img{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.my_hr{
+  border-left: gray 1px solid;
+}
