@@ -2,6 +2,7 @@ body{
   width: 100vw;
   height: auto;
   background-color: #DEDAD7;
+  overflow-x: hidden;
 }
 .jumbotron{
   width: 80%;
