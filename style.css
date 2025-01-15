@@ -34,3 +34,9 @@ video{
 .display-4{
   font-weight: 600;
 }
+footer{
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
